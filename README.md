@@ -1,4 +1,4 @@
-# discord-mango-stealer
+# Mango Stealer
 ## With this stealer u can steal everything <3 **USE PYTHON VERSION 3.9**
 # Installation 
 ```
