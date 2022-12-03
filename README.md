@@ -2,7 +2,7 @@
 ## With this stealer u can steal everything <3 **USE PYTHON VERSION 3.9**
 # Installation 
 ```
-Run Install.bat to install the requirements
+Run setup.bat to install the requirements
 Run main.py to start installing your grabber!
 ```
 
